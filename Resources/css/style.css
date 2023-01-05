@@ -1,0 +1,117 @@
+/* General */
+
+h1 {
+    padding-left: 2rem;
+}
+
+
+/* Colors */
+
+.border {
+    border: solid 2px lightgrey;
+    margin: 1rem 2rem;
+    padding: 1rem;
+}
+
+.box1, .box2, .box3, .box4, .box5, .box6 {
+    width: 15rem;
+    height: 6rem;
+    display: inline-block;
+    margin: 1rem;
+}
+
+.box1 p, .box2 p, .box3 p, .box4 p, .box5 p {
+    color:hsl(0, 0%, 100%);
+    text-align: center;
+}
+
+.box1 {
+    background-color: hsl(231.43, 60.6%, 24.9%);
+}
+
+.box2 {
+    background-color: hsla(231.43, 60.6%, 24.9%, 40%);
+}
+
+.box3 {
+    background-color: hsl(44.3, 96.3%, 57.8%);
+}
+
+.box4 {
+    background-color: hsl(0, 0%, 0%);
+}
+
+.box5 {
+    background-color: hsla(0, 0%, 0%, 30%);
+}
+
+.box6 {
+    background-color: hsl(0, 0%, 96.1%);
+    color:hsl(0, 0%, 0%);
+    text-align: center;
+}
+
+
+/* Fonts */
+
+.font_Source, .font_Nunito, .font_Poppins {
+    font-size: large;
+    max-height: 10rem;
+    max-width: 100rem;
+    display: inline-block;
+    margin-right: 6rem;
+    margin-bottom: 4rem;
+}
+
+.font_Source {
+    font-family: 'Source Code Pro', serif;
+}
+
+.font_Nunito {
+    font-family: 'Nunito Sans', serif;
+}
+
+.font_Poppins {
+    font-family: 'Poppins', serif;
+}
+
+.title {
+    font-size: larger;
+    text-decoration: underline;
+}
+
+.regular {
+    font-style: normal;
+}
+
+.bold {
+    font-weight: 900;
+}
+
+.italics {
+    font-style: italic;
+}
+
+/* Styles */
+
+.style {
+    font-size: large;
+}
+
+.h1_title {
+    font-family: 'Nunito Sans';
+    font-size: 26px;
+    font-weight: 700;
+}
+
+.h2_title {
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.h3_title {
+    font-family: Poppins;
+    font-size: 14px;
+    font-weight: 400;
+}
