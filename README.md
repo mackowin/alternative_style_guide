@@ -1,4 +1,4 @@
-# :eyes: Build a Website Style Guide Challenge Project #
+# :eyes: Build a Website Style Guide Challenge Project (I) #
 CodeCademy Project: practice basic HTML and CSS
 
 ## Table of Contents ##
